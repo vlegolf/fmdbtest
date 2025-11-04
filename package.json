@@ -1,8 +1,0 @@
-{
-  "name": "fm-fotmob-proxy",
-  "version": "1.0.0",
-  "description": "Proxy for Fotmob API to bypass CORS and serve transfer data",
-  "main": "api/fotmob.js",
-  "type": "module",
-  "license": "MIT"
-}
